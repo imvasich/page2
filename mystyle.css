@@ -1,0 +1,19 @@
+body
+{
+  background-color: lightpink;
+  color: white;
+}
+
+h1
+{
+  color: white;
+  margin-left: 20px;
+}
+#red
+{
+  border-color: red;
+  background-color: white;
+  padding: 8px;
+  width: 200px;
+  color: red;
+}
